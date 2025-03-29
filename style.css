@@ -51,6 +51,11 @@ body{
     font-weight: 800;
 }
 
+.txt h2:hover{
+    color: #f4d04e;
+    cursor: pointer;
+}
+
 .txt p{
     margin: 15px 0;
     color: #6b6b6b;
